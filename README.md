@@ -1,4 +1,4 @@
-# 🧪 Augmented Reality Chemical Safety Trainer
+# 🧪 Augmented Reality Chemical Safety Trainer(AR)
 
 An **Augmented Reality (AR) laboratory safety application** developed with **Unity and Vuforia Engine** to help users identify chemicals and access important safety information directly through a mobile device.
 
